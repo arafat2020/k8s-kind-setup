@@ -27,6 +27,10 @@ This guide covers the steps to:
 
 
 
+
+## ArgoCD 
+![Argo-CD Monitoring Screen](argocd.png)
+
 ## Resume Description
 
 ### Project Title: 

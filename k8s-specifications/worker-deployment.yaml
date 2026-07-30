@@ -15,5 +15,5 @@ spec:
         app: worker
     spec:
       containers:
-      - image: dockersamples/examplevotingapp_worker
+      - image: <YOUR_DOCKERHUB_USERNAME>/examplevotingapp_worker:latest
         name: worker
