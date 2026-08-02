@@ -15,7 +15,7 @@ spec:
         app: result
     spec:
       containers:
-      - image: <YOUR_DOCKERHUB_USERNAME>/examplevotingapp_result:latest
+      - image: anower77/examplevotingapp_result:latest
         name: result
         ports:
         - containerPort: 80

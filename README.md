@@ -1,4 +1,4 @@
-# K8s Kind 
+# K8s Kind with Docker
 
 A comprehensive guide for setting up a Kubernetes cluster using Kind on an AWS EC2 instance, installing and configuring Argo CD, and deploying applications using Argo CD.
 
@@ -40,6 +40,19 @@ Automated Deployment of Scalable Applications on AWS EC2 with Kubernetes and Arg
 ### Description: 
 
 Led the deployment of scalable applications on AWS EC2 using Kubernetes and Argo CD for streamlined management and continuous integration. Orchestrated deployments via Kubernetes dashboard, ensuring efficient resource utilization and seamless scaling.
+
+
+### username:
+```txt
+admin
+```
+
+### password:
+```txt
+RxL9U-8bNMpaX7wM
+```
+
+
 
 ### Key Technologies:
 

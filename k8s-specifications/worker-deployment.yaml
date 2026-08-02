@@ -15,5 +15,5 @@ spec:
         app: worker
     spec:
       containers:
-      - image: <YOUR_DOCKERHUB_USERNAME>/examplevotingapp_worker:latest
+      - image: anower77/examplevotingapp_worker:latest
         name: worker
